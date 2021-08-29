@@ -21,6 +21,19 @@
     <img height="50em" src="https://github.com/Walessonrdreis/Walessonrdreis/blob/8cf7b165cb81fcaf86c9a3d81fcc6a467ca8e8db/imagens/react-original.svg">
     <img height="50em" src="https://github.com/Walessonrdreis/Walessonrdreis/blob/8cf7b165cb81fcaf86c9a3d81fcc6a467ca8e8db/imagens/typescript-original.svg">
     </div>
+     <hw>
+    <h3>Contatos<h3>
+    
+    
+ <div>
+    <a href="https://www.instagram.com/dev.reisba?r=nametag" target="_blank"><img height="40em"           src="https://github.com/Walessonrdreis/Walessonrdreis/blob/27eba5f2aa6b0bb90a7fa7e4f389a3f70bf6863d/imagens/Instagram-E4405F.svg" target="_blank"></a>
+    <a href="mailto:wallllase@hotmail.com" target="_blank" ><img height="40em" width="176em"src="https://github.com/Walessonrdreis/Walessonrdreis/blob/27eba5f2aa6b0bb90a7fa7e4f389a3f70bf6863d/imagens/Microsoft_Outlook-0078D4.svg"></a>
+   <a href="https://www.linkedin.com/in/walesson-rocha-dos-reis-153728210/" target="_blank"><img height="40em" width="176em" src="https://github.com/Walessonrdreis/Walessonrdreis/blob/27eba5f2aa6b0bb90a7fa7e4f389a3f70bf6863d/imagens/LinkedIn-0077B5.svg" target="_blank"></a>
+   <a href="htpps://twitter.com/WalessonReisBA?s=09" target="_blank"><img height="40em" width="176em"  src="https://github.com/Walessonrdreis/Walessonrdreis/blob/27eba5f2aa6b0bb90a7fa7e4f389a3f70bf6863d/imagens/Twitter-1DA1F2.svg" target="_blank"></a>
+ </div>
+      
+       
+
 <!--
 **Walessonrdreis/Walessonrdreis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
