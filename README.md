@@ -1,5 +1,7 @@
 <h2>Oi! Eu sou o Walesson Reis</h2>
 
+<h3>Graduando em Ciência da Computação</h3>
+
 <div>
 <a href="https://github.com/Walessonrdreis">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=WAlessonrdreis&show_icons=true&count_private=true&theme=github_dark">
