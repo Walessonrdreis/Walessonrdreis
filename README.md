@@ -1,6 +1,14 @@
 <h2>Oi! Eu sou o Walesson Reis</h2>
 
 <h3>Graduando em Ciência da Computação</h3>
+<h4>`...
+export const OqueEstouFazendo = () => {
+  const [ estudando, setEstudando] = useState("Estudando Loucamente");
+  return <h1>O que estou fazendo? {estudando}</h1>;
+}
+const root = ReactDom.createRoot(document.getElementById('root'));
+root.render(< OqueEstouFazendo />);
+`</h4>
 
 <div>
 <a href="https://github.com/Walessonrdreis">
